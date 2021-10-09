@@ -1,0 +1,9 @@
+h1, h2, h3, h4, h5, h6 {font-family: Trebuchet MS, Tahoma, Geneva, sans-serif;}
+p {font-family: Trebuchet MS, Tahoma, Geneva, sans-serif; color: #000000;}
+p.dropcap:first-letter {font: 200% times; float: left; margin-right: 5px;}
+.image_left {float: left; margin-top: 5x; margin-right: 8px;}
+.image_right {float: right; margin-top: 5px; margin-left: 8px;}
+a:link {font-weight: bold; text-decoration: none; color: #6633FF;}
+a:visited {font-weight: bold; text-decoration: none; color: #330099;}
+a:hover {text-decoration: underline; color: #9685ba;}
+body{background-color: aliceblue}
