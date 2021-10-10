@@ -7,3 +7,6 @@ a:link {font-weight: bold; text-decoration: none; color: #6633FF;}
 a:visited {font-weight: bold; text-decoration: none; color: #330099;}
 a:hover {text-decoration: underline; color: #9685ba;}
 body{background-color: aliceblue}
+
+
+td.title{background-color: #00b377;}
